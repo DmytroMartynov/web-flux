@@ -1,4 +1,4 @@
-package com.example.webflux;
+package dimentor.webflux;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

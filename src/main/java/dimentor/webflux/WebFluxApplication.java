@@ -1,4 +1,4 @@
-package com.example.webflux;
+package dimentor.webflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
